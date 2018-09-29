@@ -12,11 +12,13 @@ package pbo2.pkg10117065.latihan19.saldotabungan;
 public class PBO210117065Latihan19SaldoTabungan {
 
     public static void main(String[] args) {
+        
 //        deklarasi variabel
         int saldoAwal;
         int bunga; // persen bunga
         int jbunga; // jumlah bunga
         int lamaBulan;
+        
 //        variabel yang diberi value
         saldoAwal = 2500000;
         bunga = 15;
