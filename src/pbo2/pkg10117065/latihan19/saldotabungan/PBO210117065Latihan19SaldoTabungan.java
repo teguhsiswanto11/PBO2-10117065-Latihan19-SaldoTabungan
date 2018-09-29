@@ -5,7 +5,8 @@ package pbo2.pkg10117065.latihan19.saldotabungan;
  * NAMA     : Teguh Siswanto
  * KELAS    : IF-2
  * NIM      : 10117065
- * Deskripsi Program : 
+ * Deskripsi Program : Menghitung Saldo yang selalu bertambah setiap bulan dan
+ * menampilkannya dengan format tertentu
  * 
  */
 public class PBO210117065Latihan19SaldoTabungan {
